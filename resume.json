@@ -1,0 +1,51 @@
+{
+	"basics": {
+		"name": "Priyanshu Agarwal",
+		"label": "Student",
+		"email": "2019kucp1007@iiitkota.ac.in",
+		"phone": "9680789400",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. I look to make smooth and compatible web apps and projects which can be used in real world",
+		"location": {
+			"address": "73'F lajpat nagar , scheme-2",
+			"postalCode": "301001",
+			"city": "Alwar",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "priyanshuagarwal7",
+				"url": "https://www.github.com/priyanshuagarwal7/"
+			},
+			{
+				"network": "linkedin",
+				"username": "",
+				"url": "https://www.linkedin.com/in/priyanshu-agarwal-7340631a0/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-07-08",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Advanced",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	},
+    {
+        "level":"Intermediate",
+        "keywords":["Django","pygame","python"]
+    }
+],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Table Tennis", "Badminton","Cricket"]
+	}],
+	"references": []
+}
